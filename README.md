@@ -1,4 +1,5 @@
-# 서울시 24시 반려동물 셀프목욕방 창업을 위한 동단위 입지 분석(2024.04.26 ~ 05.09)
+# 서울시 24시 반려동물 셀프목욕방 창업을 위한 동단위 입지 분석
+## (2024.04.26 ~ 05.09)
 ## Drop_D_Bit-2조
 
 ### 역할
@@ -42,6 +43,6 @@
 ### 대시보드
 <img src="https://github.com/Tr9whY/Project-Drop_D_Bit/blob/main/Data/Power%20BI/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C_ver2_1.png" alt="이미지 설명">
 
-### Folium
+### 지도
 <img src="https://github.com/Tr9whY/Project-Drop_D_Bit/blob/main/Data/Code/png/Folium.PNG" alt="이미지 설명">
 
