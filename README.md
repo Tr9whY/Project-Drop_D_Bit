@@ -20,3 +20,6 @@
 - 공공데이터포털 [링크](https://www.data.go.kr/index.do)
 - 통합 데이터지도 [링크](https://www.bigdata-map.kr/)
 
+
+### Dashboard:
+<img src="https://github.com/Tr9whY/Project-Drop_D_Bit/blob/main/Data/Power%20BI/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C_ver2_1.png" alt="이미지 설명">
