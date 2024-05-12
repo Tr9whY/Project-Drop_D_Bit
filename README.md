@@ -1,4 +1,4 @@
-# 서울시 24시 반려동물 셀프목욕방 창업을 위한 동단위 입지 분석
+# 서울시 24시 반려동물 셀프목욕방 창업을 위한 동단위 입지 분석 🐾
 ## (2024.04.26 ~ 05.09)
 ## Drop_D_Bit-2조
 
@@ -27,6 +27,8 @@
 - 서울 열린 데이터 광장 [링크](https://data.seoul.go.kr/)
 - 공공데이터포털 [링크](https://www.data.go.kr/index.do)
 - 통합 데이터지도 [링크](https://www.bigdata-map.kr/)
+- 국가동물보호정보시스템 [링크](https://www.animal.go.kr/front/index.do)
+- 농림축산식품 공공데이터 포털 [링크](https://data.mafra.go.kr/main.do)
   
 ### 전처리
 - 주소 데이터를 서울시 행정동 단위로 추출
